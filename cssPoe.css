@@ -1,0 +1,59 @@
+html {
+    background-color: darkgrey;
+}
+
+body {
+    height: 2000px;
+    width: 1275px;
+    background-color: lightgrey;
+    padding-top: 40px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px grey;
+    border-radius: 5px;
+    font-family: "Book Antiqua", serif;
+}
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 96px;
+}
+h2 {
+    text-align: center;
+    color: darkred;
+    font-size: 42px;
+}
+.container {
+    
+}
+ #banner {
+    padding: 10px;
+    border-radius: 10px; 
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+}
+.timeline {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 200px;
+}
+.blockquote {
+    display: block;
+    margin: 50px 325px 20px 325px;
+    font-size: 24px;
+    font-family: Georgia;
+    color: darkred;
+}
+#sig {
+    margin-left: 750px;
+}
+.moreinfo {
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 225px;
+    margin-right: 225px;
+}
